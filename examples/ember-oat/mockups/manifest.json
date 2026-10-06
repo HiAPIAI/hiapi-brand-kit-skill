@@ -1,0 +1,78 @@
+{
+ "assets": {
+  "mark": {
+   "file": "mark.png",
+   "type": "file",
+   "cost": 0
+  },
+  "primary": {
+   "file": "primary.png",
+   "type": "file",
+   "cost": 0
+  },
+  "business_card": {
+   "file": "business_card.jpg",
+   "type": "image",
+   "model": "gpt-image-2.5-sunburst/image-to-image",
+   "task": "tk-hiapi-01M47JQYX186Z1FSKK8RQVAN75",
+   "cost": 0.05,
+   "seconds": 52
+  },
+  "cup": {
+   "file": "cup.jpg",
+   "type": "image",
+   "model": "gpt-image-2.5-sunburst/image-to-image",
+   "task": "tk-hiapi-01M47JQZZRVDXG7737NECSXS4S",
+   "cost": 0.05,
+   "seconds": 65
+  },
+  "storefront": {
+   "file": "storefront.jpg",
+   "type": "image",
+   "model": "gpt-image-2.5-sunburst/image-to-image",
+   "task": "tk-hiapi-01M47JQZWPAT1Q0XMYP751MM13",
+   "cost": 0.05,
+   "seconds": 72
+  },
+  "menu_board": {
+   "file": "menu_board.jpg",
+   "type": "image",
+   "model": "gpt-image-2.5-sunburst/image-to-image",
+   "task": "tk-hiapi-01M47JR63J8W6E75JCN55KJHHM",
+   "cost": 0.05,
+   "seconds": 64
+  },
+  "social_post": {
+   "file": "social_post.jpg",
+   "type": "image",
+   "model": "gpt-image-2.5-sunburst/image-to-image",
+   "task": "tk-hiapi-01M47JV0K8PWH0YAW1SJ1YS257",
+   "cost": 0.05,
+   "seconds": 57
+  },
+  "tote": {
+   "file": "tote.jpg",
+   "type": "image",
+   "model": "gpt-image-2.5-sunburst/image-to-image",
+   "task": "tk-hiapi-01M47JV0R8D0FN6P04HD9Y1FPJ",
+   "cost": 0.05,
+   "seconds": 59
+  },
+  "bread_bag": {
+   "file": "bread_bag.jpg",
+   "type": "image",
+   "model": "gpt-image-2.5-sunburst/image-to-image",
+   "task": "tk-hiapi-01M47JV0VKZ6N45JTGV6HV4698",
+   "cost": 0.05,
+   "seconds": 71
+  },
+  "apron": {
+   "file": "apron.jpg",
+   "type": "image",
+   "model": "gpt-image-2.5-sunburst/image-to-image",
+   "task": "tk-hiapi-01M47JV4F65QP61MJHWDT0HBWV",
+   "cost": 0.05,
+   "seconds": 73
+  }
+ }
+}

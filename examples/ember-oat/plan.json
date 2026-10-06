@@ -1,0 +1,15 @@
+{
+  "style": "Photorealistic brand mockup photography, natural soft daylight, shallow depth of field, tactile real materials, warm palette of ember orange #C8552B, dark crust brown #5A3420 and oat cream #EFE3CC. Reproduce the logo from the reference image EXACTLY — same shape, same colours, same lettering \"Ember & Oat\" — do not redraw, restyle or misspell it. No other logos, no extra text unless asked, no watermark.",
+  "assets": [
+    { "id": "mark", "type": "file", "path": "logo/mark.png" },
+    { "id": "primary", "type": "file", "path": "logo/primary.png" },
+    { "id": "storefront", "type": "image", "ref": ["primary"], "aspect_ratio": "3:2", "prompt": "The front of a small corner bakery-café in the morning: a dark brown painted shopfront with the horizontal logo from the reference hand-painted in cream and orange on the glass above the door, a wooden bench, loaves visible in the window, a chalk A-board on the pavement." },
+    { "id": "cup", "type": "image", "ref": ["mark"], "aspect_ratio": "1:1", "prompt": "A takeaway coffee cup in oat-cream paper with the round logo mark from the reference printed on it, next to a sourdough loaf on a wooden counter, steam rising." },
+    { "id": "bread_bag", "type": "image", "ref": ["primary"], "aspect_ratio": "3:4", "prompt": "A kraft-paper bread bag folded at the top, printed with the horizontal logo from the reference in dark brown, a baguette sticking out, on a flour-dusted marble table." },
+    { "id": "business_card", "type": "image", "ref": ["primary"], "aspect_ratio": "3:2", "prompt": "Two letterpress business cards on thick oat-cream cotton paper, one showing the horizontal logo from the reference, the other face-down in solid ember orange; a few oat flakes and a brass pen nearby, top-down view." },
+    { "id": "tote", "type": "image", "ref": ["mark"], "aspect_ratio": "3:4", "prompt": "A natural canvas tote bag hanging on a wooden peg against a white plaster wall, screen-printed with the round logo mark from the reference, loaves peeking out of the bag." },
+    { "id": "apron", "type": "image", "ref": ["mark"], "aspect_ratio": "3:4", "prompt": "A baker in a dark brown canvas apron with the round logo mark from the reference embroidered on the chest, hands dusted with flour, shaping dough; face out of frame." },
+    { "id": "social_post", "type": "image", "ref": ["primary"], "aspect_ratio": "3:4", "prompt": "An Instagram announcement graphic (flat design, not a photo): oat-cream background, a cut-out photo of cardamom knots, large serif headline that reads exactly \"Cardamom knots are back\", the small horizontal logo from the reference at the bottom." },
+    { "id": "menu_board", "type": "image", "ref": ["primary"], "aspect_ratio": "3:4", "prompt": "A dark brown wooden menu board hanging behind a café counter, the horizontal logo from the reference painted at the top in cream and orange, below it neat hand-lettered cream text listing: Sourdough 6, Oat bun 3, Cardamom knot 4, Flat white 4." }
+  ]
+}

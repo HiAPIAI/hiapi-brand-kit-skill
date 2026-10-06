@@ -1,0 +1,63 @@
+{
+ "name": "Ember & Oat",
+ "tagline": "Wood-fired bread, slow mornings.",
+ "story": "A neighbourhood bakery-café that bakes everything in one wood-fired oven: crusty sourdough, oat buns and cardamom knots, served with good coffee from 7 a.m.",
+ "audience": "Locals who walk in before work, weekend brunch crowds, people who care where their bread comes from.",
+ "personality": [
+  "warm",
+  "honest",
+  "crafted",
+  "unhurried"
+ ],
+ "colors": [
+  {
+   "name": "Ember",
+   "hex": "#C8552B",
+   "use": "primary: the mark, buttons, accents"
+  },
+  {
+   "name": "Crust",
+   "hex": "#5A3420",
+   "use": "text and dark backgrounds"
+  },
+  {
+   "name": "Oat",
+   "hex": "#EFE3CC",
+   "use": "paper, backgrounds"
+  },
+  {
+   "name": "Rye",
+   "hex": "#A8875B",
+   "use": "secondary details, illustrations"
+  },
+  {
+   "name": "Ash",
+   "hex": "#2B2724",
+   "use": "small text, dark mode"
+  }
+ ],
+ "fonts": {
+  "display": "Fraunces",
+  "text": "DM Sans"
+ },
+ "logo": {
+  "mark": "logo/mark.svg",
+  "primary": "logo/primary.svg",
+  "stacked": "logo/stacked.svg",
+  "mark_png": "logo/mark.png",
+  "primary_png": "logo/primary.png",
+  "stacked_png": "logo/stacked.png"
+ },
+ "voice": {
+  "do": [
+   "Speak like the baker behind the counter",
+   "Name the ingredient, the time, the place",
+   "Short sentences, warm verbs"
+  ],
+  "dont": [
+   "Corporate buzzwords",
+   "Exclamation marks everywhere",
+   "Fake urgency"
+  ]
+ }
+}
