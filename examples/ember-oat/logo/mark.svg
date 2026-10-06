@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Ember & Oat mark: an oat grain whose split forms a flame, inside a round oven mouth -->
+  <circle cx="100" cy="100" r="92" fill="#C8552B"/>
+  <path d="M38 132 A62 62 0 0 1 162 132" fill="none" stroke="#EFE3CC" stroke-width="7" stroke-linecap="round"/>
+  <path d="M100 40 C128 66 134 98 118 122 C112 131 106 136 100 140 C94 136 88 131 82 122 C66 98 72 66 100 40 Z" fill="#EFE3CC"/>
+  <path d="M100 62 C112 80 114 100 104 118 C102 121 100 123 100 123 C100 123 98 121 96 118 C86 100 88 80 100 62 Z" fill="#C8552B"/>
+  <path d="M100 92 C106 102 106 112 100 120 C94 112 94 102 100 92 Z" fill="#EFE3CC"/>
+  <path d="M100 140 L100 162" stroke="#EFE3CC" stroke-width="7" stroke-linecap="round"/>
+</svg>
