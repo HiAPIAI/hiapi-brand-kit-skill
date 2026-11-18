@@ -5,7 +5,7 @@
 **一句话说清你的生意 → 一个可编辑的 Logo、整套品牌识别、真实感样机和一页品牌手册。**
 
 品牌定位 · SVG Logo 系统 · 配色 · 字体 · 语气 · 门头、包装、周边、社媒样机 · 品牌规范页<br>
-适用于 Claude Code、Codex 等编程 Agent · 样机通过 [HiAPI](https://www.hiapi.ai/zh) 生成
+适用于 Claude Code、Codex 等编程 Agent · 样机通过 [HiAPI](https://www.hiapi.ai/zh?utm_source=github&utm_medium=readme&utm_campaign=hiapi-brand-kit) 生成
 
 [English](README.md) · 简体中文 · AI Agent？先读 [llms-install.md](llms-install.md)
 
@@ -31,7 +31,7 @@
 
 ```bash
 npx -y github:HiAPIAI/hiapi-brand-kit-skill -y
-export HIAPI_API_KEY=你的key        # https://www.hiapi.ai/zh/dashboard/api-keys
+export HIAPI_API_KEY=你的key        # https://www.hiapi.ai/zh/dashboard/api-keys?utm_source=github&utm_medium=readme&utm_campaign=hiapi-brand-kit
 ```
 
 然后对 Agent 说：
@@ -49,7 +49,7 @@ export HIAPI_API_KEY=你的key        # https://www.hiapi.ai/zh/dashboard/api-ke
 | `mockups/` | 带原版 Logo 的真实感样机，`manifest.json` 记录实际花费 |
 | `brand-book.html` | 一页品牌规范网站 |
 
-费用：只有样机是 HiAPI 付费调用，1K 每张 $0.05（[定价](https://www.hiapi.ai/zh/pricing)），先用 `--dry-run` 看预估。
+费用：只有样机是 HiAPI 付费调用，1K 每张 $0.05（[定价](https://www.hiapi.ai/zh/pricing?utm_source=github&utm_medium=readme&utm_campaign=hiapi-brand-kit)），先用 `--dry-run` 看预估。
 
 ## 许可
 

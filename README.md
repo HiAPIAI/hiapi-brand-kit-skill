@@ -5,7 +5,7 @@
 **One line about your business → a logo you can edit, a full identity, real-looking mockups and a brand book.**
 
 Strategy · SVG logo system · colours · type · voice · storefront, packaging, merch & social mockups · guidelines page<br>
-for Claude Code, Codex and other coding agents · mockups made through [HiAPI](https://www.hiapi.ai/en)
+for Claude Code, Codex and other coding agents · mockups made through [HiAPI](https://www.hiapi.ai/en?utm_source=github&utm_medium=readme&utm_campaign=hiapi-brand-kit)
 
 English · [简体中文](README.zh-CN.md) · AI agent? Read [llms-install.md](llms-install.md)
 
@@ -33,7 +33,7 @@ picture to picture. Here the split is deliberate:
 
 ```bash
 npx -y github:HiAPIAI/hiapi-brand-kit-skill -y
-export HIAPI_API_KEY=your_key        # https://www.hiapi.ai/en/dashboard/api-keys
+export HIAPI_API_KEY=your_key        # https://www.hiapi.ai/en/dashboard/api-keys?utm_source=github&utm_medium=readme&utm_campaign=hiapi-brand-kit
 ```
 
 Then ask your agent:
@@ -51,7 +51,7 @@ Then ask your agent:
 | `mockups/` | photorealistic mockups with the exact logo, plus `manifest.json` with the real cost |
 | `brand-book.html` | the one-page guidelines site |
 
-Cost: only the mockups are paid HiAPI calls, $0.05 each at 1K ([pricing](https://www.hiapi.ai/en/pricing)). `--dry-run` shows the estimate first.
+Cost: only the mockups are paid HiAPI calls, $0.05 each at 1K ([pricing](https://www.hiapi.ai/en/pricing?utm_source=github&utm_medium=readme&utm_campaign=hiapi-brand-kit)). `--dry-run` shows the estimate first.
 
 ## License
 
